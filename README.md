@@ -1,7 +1,7 @@
 # 👋 Hola, soy Aaron Demczyszak
 
 🎯 Desarrollador de Software | Multiplataforma  
-🌍 Español (Nativo) | Inglés (C1)
+Español (Nativo) | Inglés (C1)
 
 ---
 
@@ -38,11 +38,8 @@ Actualmente enfocado en seguir creciendo como desarrollador profesional y partic
 ### 🛠 Herramientas y Entornos
 - Visual Studio
 - Android Studio
-- Eclipse
+- IntellJ IDEA
 - Xcode
-- MySQL Workbench
-- phpMyAdmin
-- Oracle SQL Developer
 
 ---
 
