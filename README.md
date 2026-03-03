@@ -1,7 +1,6 @@
 # 👋 Hola, soy Aaron Demczyszak
 
 🎯 Desarrollador de Software | Multiplataforma  
-📍 San Martín de la Vega, Madrid  
 🌍 Español (Nativo) | Inglés (C1)
 
 ---
