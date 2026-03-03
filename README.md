@@ -1,16 +1,73 @@
-## Hi there 👋
+# 👋 Hola, soy Aaron Demczyszak
 
-<!--
-**AaronMarek/AaronMarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desarrollador de Software | Multiplataforma  
+📍 San Martín de la Vega, Madrid  
+🌍 Español (Nativo) | Inglés (C1)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma por U-tad (2023).  
+Me especializo en desarrollo backend, aplicaciones multiplataforma y desarrollo web moderno.
+
+Me interesa construir software sólido, escalable y bien estructurado, aplicando buenas prácticas de desarrollo, principios de diseño y arquitectura limpia.
+
+Actualmente enfocado en seguir creciendo como desarrollador profesional y participar en proyectos que aporten impacto real.
+
+---
+
+## 🧠 Stack Tecnológico
+
+### 💻 Lenguajes de Programación
+- Java
+- JavaScript
+- Kotlin
+- Swift
+
+### 🌐 Desarrollo Web
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+
+### 🗄 Bases de Datos
+- MySQL
+- Oracle SQL
+- MongoDB
+
+### 🛠 Herramientas y Entornos
+- Visual Studio
+- Android Studio
+- Eclipse
+- Xcode
+- MySQL Workbench
+- phpMyAdmin
+- Oracle SQL Developer
+
+---
+
+## 🎓 Formación Académica
+
+**Técnico Superior en Desarrollo de Aplicaciones Multiplataforma**  
+U-tad | Centro Universitario de Tecnología y Arte Digital (2023)
+
+**Bachillerato en Ciencias Sociales** (2021)
+
+---
+
+## 📈 Competencias Profesionales
+
+- Desarrollo orientado a objetos
+- Diseño y modelado de bases de datos
+- Desarrollo de aplicaciones móviles
+- Desarrollo web frontend
+- Formación puntual de compañeros (transferencia de conocimiento)
+- Disponibilidad para viajar
+
+---
+
+## 📫 Contacto
+
+📧 aaronmarekrojas@gmail.com  
+📍 Madrid, España  
